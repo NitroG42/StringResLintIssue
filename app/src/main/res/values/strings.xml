@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StringResLintIssue</string>
+    <string name="first_title">First Title</string>
+</resources>
